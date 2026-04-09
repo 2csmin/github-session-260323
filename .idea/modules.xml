@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/HUFSLION14.iml" filepath="$PROJECT_DIR$/HUFSLION14.iml" />
       <module fileurl="file://$PROJECT_DIR$/PBL/PBL.iml" filepath="$PROJECT_DIR$/PBL/PBL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PBL2/PBL2.iml" filepath="$PROJECT_DIR$/PBL2/PBL2.iml" />
     </modules>
   </component>
 </project>
